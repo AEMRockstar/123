@@ -34,6 +34,11 @@
  */
 CQ.form.rte.plugins.LinkDialog = CQ.Ext.extend(CQ.form.rte.ui.BaseWindow, {
 
+
+
+
+    
+
     constructor: function(config) {
         config = config || { };
         var defaults = {
